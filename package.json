@@ -1,0 +1,22 @@
+{
+  "name": "glc",
+  "version": "1.0.0",
+  "description": "A collection of white-hot javascript utilities that you are too weak to handle, so I would recommend you dont use them",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sparmboy/glc-js-utils.git"
+  },
+  "keywords": [
+    "javascript"
+  ],
+  "author": "Spencer Loveridge",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sparmboy/glc-js-utils/issues"
+  },
+  "homepage": "https://github.com/sparmboy/glc-js-utils#readme"
+}
